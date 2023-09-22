@@ -7,5 +7,5 @@ File extension will be added with time by discovering them.
 ( where do you want to store files / the way of organising them )
 
 #Notatka dla autora
-** Punkty do zrobienia: 
+
 * Konfiguracja za pomocą zenity
